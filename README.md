@@ -20,7 +20,7 @@
 $ go install github.com/hfmrow/gen_lib/...
 ```
 
-### Golang ressources
+### Golang resources
 
 ##### [Golang Programs](https://www.golangprograms.com/)
 
