@@ -1,0 +1,226 @@
+{
+	"List": [
+		{
+			"Ext": "glade",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 64,
+					"RangeEnd": 0,
+					"Value": "3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C212D2D2047656E657261746564207769746820676C616465",
+					"ValueEnd": "",
+					"Bytes": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBHZW5lcmF0ZWQgd2l0aCBnbGFkZQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-gtk-builder+xml",
+			"IsText": true
+		},
+		{
+			"Ext": "xcf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 13,
+					"RangeEnd": 0,
+					"Value": "67696D70207863662066696C65",
+					"ValueEnd": "",
+					"Bytes": "Z2ltcCB4Y2YgZmlsZQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/gimp-xcf-file",
+			"IsText": false
+		},
+		{
+			"Ext": "",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 24,
+					"RangeEnd": 0,
+					"Value": "7F454C4602010100000000000000000002003E0001000000",
+					"ValueEnd": "",
+					"Bytes": "f0VMRgIBAQAAAAAAAAAAAAIAPgABAAAA",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-executable",
+			"IsText": false
+		},
+		{
+			"Ext": "7z",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": 0,
+					"Value": "377ABCAF271C",
+					"ValueEnd": "",
+					"Bytes": "N3q8rycc",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-7z-compressed",
+			"IsText": false
+		},
+		{
+			"Ext": "debug",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 17,
+					"RangeEnd": 0,
+					"Value": "213C617263683E0A5F5F2E504B47444546",
+					"ValueEnd": "",
+					"Bytes": "ITxhcmNoPgpfXy5QS0dERUY=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-golang-library-debug",
+			"IsText": false
+		},
+		{
+			"Ext": "php",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": 0,
+					"Value": "3C3F706870",
+					"ValueEnd": "",
+					"Bytes": "PD9waHA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-httpd-php",
+			"IsText": true
+		},
+		{
+			"Ext": "gif",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": 0,
+					"Value": "474946383761",
+					"ValueEnd": "",
+					"Bytes": "R0lGODdh",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/gif",
+			"IsText": false
+		},
+		{
+			"Ext": "svg",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 512,
+					"RangeEnd": 7,
+					"Value": "3C73766720786D6C6E73",
+					"ValueEnd": "3C2F7376673E",
+					"Bytes": "PHN2ZyB4bWxucw==",
+					"BytesEnd": "PC9zdmc+"
+				}
+			],
+			"Mime": "image/svg+xml",
+			"IsText": true
+		},
+		{
+			"Ext": "class",
+			"Signs": [],
+			"Mime": "application/java-vm",
+			"IsText": true
+		},
+		{
+			"Ext": "js",
+			"Signs": [],
+			"Mime": "application/javascript",
+			"IsText": true
+		},
+		{
+			"Ext": "json",
+			"Signs": [],
+			"Mime": "application/json",
+			"IsText": true
+		},
+		{
+			"Ext": "md",
+			"Signs": [],
+			"Mime": "text/markdown",
+			"IsText": true
+		},
+		{
+			"Ext": "css",
+			"Signs": [],
+			"Mime": "text/css",
+			"IsText": true
+		},
+		{
+			"Ext": "html",
+			"Signs": [],
+			"Mime": "text/html",
+			"IsText": true
+		},
+		{
+			"Ext": "woff",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": 1,
+					"Value": "774F464600010000",
+					"ValueEnd": "",
+					"Bytes": "d09GRgABAAA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": 1,
+					"Value": "774F46464F54544F",
+					"ValueEnd": "",
+					"Bytes": "d09GRk9UVE8=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/font-woff",
+			"IsText": false
+		},
+		{
+			"Ext": "woff2",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": 1,
+					"Value": "774F463200010000",
+					"ValueEnd": "",
+					"Bytes": "d09GMgABAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "font/woff2",
+			"IsText": false
+		},
+		{
+			"Ext": "eot",
+			"Signs": [
+				{
+					"Offset": 22,
+					"Range": 19,
+					"RangeEnd": 1,
+					"Value": "4C500000000000000000000000000000000001",
+					"ValueEnd": "",
+					"Bytes": "TFAAAAAAAAAAAAAAAAAAAAAAAQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-fontobject",
+			"IsText": false
+		}
+	],
+	"DispLen": 0
+}

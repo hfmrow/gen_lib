@@ -1,0 +1,3400 @@
+{
+	"List": [
+		{
+			"Ext": "glade",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 64,
+					"RangeEnd": 0,
+					"Value": "3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C212D2D2047656E657261746564207769746820676C616465",
+					"ValueEnd": "",
+					"Bytes": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBHZW5lcmF0ZWQgd2l0aCBnbGFkZQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-gtk-builder+xml",
+			"IsText": true
+		},
+		{
+			"Ext": "xcf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 13,
+					"RangeEnd": 0,
+					"Value": "67696D70207863662066696C65",
+					"ValueEnd": "",
+					"Bytes": "Z2ltcCB4Y2YgZmlsZQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/gimp-xcf-file",
+			"IsText": false
+		},
+		{
+			"Ext": "",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 24,
+					"RangeEnd": 0,
+					"Value": "7F454C4602010100000000000000000002003E0001000000",
+					"ValueEnd": "",
+					"Bytes": "f0VMRgIBAQAAAAAAAAAAAAIAPgABAAAA",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-executable",
+			"IsText": false
+		},
+		{
+			"Ext": "7z",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": 0,
+					"Value": "377ABCAF271C",
+					"ValueEnd": "",
+					"Bytes": "N3q8rycc",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-7z-compressed",
+			"IsText": false
+		},
+		{
+			"Ext": "debug",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 17,
+					"RangeEnd": 0,
+					"Value": "213C617263683E0A5F5F2E504B47444546",
+					"ValueEnd": "",
+					"Bytes": "ITxhcmNoPgpfXy5QS0dERUY=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-golang-library-debug",
+			"IsText": false
+		},
+		{
+			"Ext": "php",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": 0,
+					"Value": "3C3F706870",
+					"ValueEnd": "",
+					"Bytes": "PD9waHA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-httpd-php",
+			"IsText": true
+		},
+		{
+			"Ext": "gif",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": 0,
+					"Value": "474946383761",
+					"ValueEnd": "",
+					"Bytes": "R0lGODdh",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/gif",
+			"IsText": false
+		},
+		{
+			"Ext": "svg",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 512,
+					"RangeEnd": 7,
+					"Value": "3C73766720786D6C6E73",
+					"ValueEnd": "3C2F7376673E",
+					"Bytes": "PHN2ZyB4bWxucw==",
+					"BytesEnd": "PC9zdmc+"
+				}
+			],
+			"Mime": "image/svg+xml",
+			"IsText": true
+		},
+		{
+			"Ext": "class",
+			"Signs": [],
+			"Mime": "application/java-vm",
+			"IsText": true
+		},
+		{
+			"Ext": "js",
+			"Signs": [],
+			"Mime": "application/javascript",
+			"IsText": true
+		},
+		{
+			"Ext": "json",
+			"Signs": [],
+			"Mime": "application/json",
+			"IsText": true
+		},
+		{
+			"Ext": "md",
+			"Signs": [],
+			"Mime": "text/markdown",
+			"IsText": true
+		},
+		{
+			"Ext": "css",
+			"Signs": [],
+			"Mime": "text/css",
+			"IsText": true
+		},
+		{
+			"Ext": "html",
+			"Signs": [],
+			"Mime": "text/html",
+			"IsText": true
+		},
+		{
+			"Ext": "woff",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": 1,
+					"Value": "774F464600010000",
+					"ValueEnd": "",
+					"Bytes": "d09GRgABAAA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": 1,
+					"Value": "774F46464F54544F",
+					"ValueEnd": "",
+					"Bytes": "d09GRk9UVE8=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/font-woff",
+			"IsText": false
+		},
+		{
+			"Ext": "woff2",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": 1,
+					"Value": "774F463200010000",
+					"ValueEnd": "",
+					"Bytes": "d09GMgABAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "font/woff2",
+			"IsText": false
+		},
+		{
+			"Ext": "eot",
+			"Signs": [
+				{
+					"Offset": 22,
+					"Range": 19,
+					"RangeEnd": 1,
+					"Value": "4C500000000000000000000000000000000001",
+					"ValueEnd": "",
+					"Bytes": "TFAAAAAAAAAAAAAAAAAAAAAAAQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-fontobject",
+			"IsText": false
+		},
+		{
+			"Ext": "123",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 7,
+					"RangeEnd": -1,
+					"Value": "00001A00051004",
+					"ValueEnd": "",
+					"Bytes": "AAAaAAUQBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-1-2-3",
+			"IsText": false
+		},
+		{
+			"Ext": "cpl",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "4D5A",
+					"ValueEnd": "",
+					"Bytes": "TVo=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "DCDC",
+					"ValueEnd": "",
+					"Bytes": "3Nw=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/cpl+xml",
+			"IsText": false
+		},
+		{
+			"Ext": "epub",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "504B03040A000200",
+					"ValueEnd": "",
+					"Bytes": "UEsDBAoAAgA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/epub+zip",
+			"IsText": false
+		},
+		{
+			"Ext": "ttf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "0001000000",
+					"ValueEnd": "",
+					"Bytes": "AAEAAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/font-sfnt",
+			"IsText": false
+		},
+		{
+			"Ext": "gz",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "1F8B08",
+					"ValueEnd": "",
+					"Bytes": "H4sI",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/gzip",
+			"IsText": false
+		},
+		{
+			"Ext": "tgz",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "1F8B08",
+					"ValueEnd": "",
+					"Bytes": "H4sI",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/gzip",
+			"IsText": false
+		},
+		{
+			"Ext": "hqx",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 41,
+					"RangeEnd": -1,
+					"Value": "28546869732066696C65206D75737420626520636F6E76657274656420776974682042696E48657820",
+					"ValueEnd": "",
+					"Bytes": "KFRoaXMgZmlsZSBtdXN0IGJlIGNvbnZlcnRlZCB3aXRoIEJpbkhleCA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/mac-binhex40",
+			"IsText": false
+		},
+		{
+			"Ext": "doc",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "0D444F43",
+					"ValueEnd": "",
+					"Bytes": "DURPQw==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "CF11E0A1B11AE100",
+					"ValueEnd": "",
+					"Bytes": "zxHgobEa4QA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "D0CF11E0A1B11AE1",
+					"ValueEnd": "",
+					"Bytes": "0M8R4KGxGuE=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "DBA52D00",
+					"ValueEnd": "",
+					"Bytes": "26UtAA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 512,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "ECA5C100",
+					"ValueEnd": "",
+					"Bytes": "7KXBAA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/msword",
+			"IsText": false
+		},
+		{
+			"Ext": "mxf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 14,
+					"RangeEnd": -1,
+					"Value": "060E2B34020501010D0102010102",
+					"ValueEnd": "",
+					"Bytes": "Bg4rNAIFAQENAQIBAQI=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "3C435472616E7354696D656C696E653E",
+					"ValueEnd": "",
+					"Bytes": "PENUcmFuc1RpbWVsaW5lPg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/mxf",
+			"IsText": false
+		},
+		{
+			"Ext": "lha",
+			"Signs": [
+				{
+					"Offset": 2,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "2D6C68",
+					"ValueEnd": "",
+					"Bytes": "LWxo",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/octet-stream",
+			"IsText": false
+		},
+		{
+			"Ext": "lzh",
+			"Signs": [
+				{
+					"Offset": 2,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "2D6C68",
+					"ValueEnd": "",
+					"Bytes": "LWxo",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/octet-stream",
+			"IsText": false
+		},
+		{
+			"Ext": "exe",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "4D5A",
+					"ValueEnd": "",
+					"Bytes": "TVo=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/octet-stream",
+			"IsText": false
+		},
+		{
+			"Ext": "class",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "CAFEBABE",
+					"ValueEnd": "",
+					"Bytes": "yv66vg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/octet-stream",
+			"IsText": false
+		},
+		{
+			"Ext": "dll",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "4D5A",
+					"ValueEnd": "",
+					"Bytes": "TVo=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/octet-stream",
+			"IsText": false
+		},
+		{
+			"Ext": "img",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 19,
+					"RangeEnd": -1,
+					"Value": "000100005374616E64617264204A6574204442",
+					"ValueEnd": "",
+					"Bytes": "AAEAAFN0YW5kYXJkIEpldCBEQg==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "504943540008",
+					"ValueEnd": "",
+					"Bytes": "UElDVAAI",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "514649FB",
+					"ValueEnd": "",
+					"Bytes": "UUZJ+w==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "53434D49",
+					"ValueEnd": "",
+					"Bytes": "U0NNSQ==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 44,
+					"RangeEnd": -1,
+					"Value": "7E742C015070024D52010000000800000001000031000000310000004301FF0001000800010000007e742c01",
+					"ValueEnd": "",
+					"Bytes": "fnQsAVBwAk1SAQAAAAgAAAABAAAxAAAAMQAAAEMB/wABAAgAAQAAAH50LAE=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "EB3C902A",
+					"ValueEnd": "",
+					"Bytes": "6zyQKg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/octet-stream",
+			"IsText": false
+		},
+		{
+			"Ext": "iso",
+			"Signs": [
+				{
+					"Offset": 32769,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "4344303031",
+					"ValueEnd": "",
+					"Bytes": "Q0QwMDE=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 34817,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "4344303031",
+					"ValueEnd": "",
+					"Bytes": "Q0QwMDE=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 36865,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "4344303031",
+					"ValueEnd": "",
+					"Bytes": "Q0QwMDE=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/octet-stream",
+			"IsText": false
+		},
+		{
+			"Ext": "ogx",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 14,
+					"RangeEnd": -1,
+					"Value": "4F67675300020000000000000000",
+					"ValueEnd": "",
+					"Bytes": "T2dnUwACAAAAAAAAAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/ogg",
+			"IsText": false
+		},
+		{
+			"Ext": "oxps",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/oxps",
+			"IsText": false
+		},
+		{
+			"Ext": "pdf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "25504446",
+					"ValueEnd": "",
+					"Bytes": "JVBERg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/pdf",
+			"IsText": false
+		},
+		{
+			"Ext": "p10",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "64000000",
+					"ValueEnd": "",
+					"Bytes": "ZAAAAA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/pkcs10",
+			"IsText": false
+		},
+		{
+			"Ext": "pls",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 10,
+					"RangeEnd": -1,
+					"Value": "5B706C61796C6973745D",
+					"ValueEnd": "",
+					"Bytes": "W3BsYXlsaXN0XQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/pls+xml",
+			"IsText": false
+		},
+		{
+			"Ext": "eps",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 23,
+					"RangeEnd": -1,
+					"Value": "252150532D41646F62652D332E3020455053462D332030",
+					"ValueEnd": "",
+					"Bytes": "JSFQUy1BZG9iZS0zLjAgRVBTRi0zIDA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "C5D0D3C6",
+					"ValueEnd": "",
+					"Bytes": "xdDTxg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/postscript",
+			"IsText": false
+		},
+		{
+			"Ext": "ai",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "25504446",
+					"ValueEnd": "",
+					"Bytes": "JVBERg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/postscript",
+			"IsText": false
+		},
+		{
+			"Ext": "rtf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "7B5C72746631",
+					"ValueEnd": "",
+					"Bytes": "e1xydGYx",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/rtf",
+			"IsText": false
+		},
+		{
+			"Ext": "tsa",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 1,
+					"RangeEnd": -1,
+					"Value": "47",
+					"ValueEnd": "",
+					"Bytes": "Rw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/tamp-sequence-adjust",
+			"IsText": false
+		},
+		{
+			"Ext": "msf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 19,
+					"RangeEnd": -1,
+					"Value": "2F2F203C212D2D203C6D64623A6D6F726B3A7A",
+					"ValueEnd": "",
+					"Bytes": "Ly8gPCEtLSA8bWRiOm1vcms6eg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.epson.msf",
+			"IsText": false
+		},
+		{
+			"Ext": "fdf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "25504446",
+					"ValueEnd": "",
+					"Bytes": "JVBERg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.fdf",
+			"IsText": false
+		},
+		{
+			"Ext": "fm",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 11,
+					"RangeEnd": -1,
+					"Value": "3C4D616B657246696C6520",
+					"ValueEnd": "",
+					"Bytes": "PE1ha2VyRmlsZSA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.framemaker",
+			"IsText": false
+		},
+		{
+			"Ext": "kmz",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.google-earth.kmz",
+			"IsText": false
+		},
+		{
+			"Ext": "tpl",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "0020AF30",
+					"ValueEnd": "",
+					"Bytes": "ACCvMA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "6D7346696C7465724C697374",
+					"ValueEnd": "",
+					"Bytes": "bXNGaWx0ZXJMaXN0",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.groove-tool-template",
+			"IsText": false
+		},
+		{
+			"Ext": "kwd",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.kde.kword",
+			"IsText": false
+		},
+		{
+			"Ext": "wk4",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "00001A000210040000000000",
+					"ValueEnd": "",
+					"Bytes": "AAAaAAIQBAAAAAAA",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-1-2-3",
+			"IsText": false
+		},
+		{
+			"Ext": "wk3",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "00001A000010040000000000",
+					"ValueEnd": "",
+					"Bytes": "AAAaAAAQBAAAAAAA",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-1-2-3",
+			"IsText": false
+		},
+		{
+			"Ext": "wk1",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 14,
+					"RangeEnd": -1,
+					"Value": "0000020006040600080000000000",
+					"ValueEnd": "",
+					"Bytes": "AAACAAYEBgAIAAAAAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-1-2-3",
+			"IsText": false
+		},
+		{
+			"Ext": "apr",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "D0CF11E0A1B11AE1",
+					"ValueEnd": "",
+					"Bytes": "0M8R4KGxGuE=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-approach",
+			"IsText": false
+		},
+		{
+			"Ext": "nsf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "1A0000040000",
+					"ValueEnd": "",
+					"Bytes": "GgAABAAA",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "4E45534D1A01",
+					"ValueEnd": "",
+					"Bytes": "TkVTTRoB",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-notes",
+			"IsText": false
+		},
+		{
+			"Ext": "ntf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "1A0000",
+					"ValueEnd": "",
+					"Bytes": "GgAA",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 24,
+					"RangeEnd": -1,
+					"Value": "30314F52444E414E43452053555256455920202020202020",
+					"ValueEnd": "",
+					"Bytes": "MDFPUkROQU5DRSBTVVJWRVkgICAgICAg",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "4E49544630",
+					"ValueEnd": "",
+					"Bytes": "TklURjA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-notes",
+			"IsText": false
+		},
+		{
+			"Ext": "org",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "414F4C564D313030",
+					"ValueEnd": "",
+					"Bytes": "QU9MVk0xMDA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-organizer",
+			"IsText": false
+		},
+		{
+			"Ext": "lwp",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 7,
+					"RangeEnd": -1,
+					"Value": "576F726450726F",
+					"ValueEnd": "",
+					"Bytes": "V29yZFBybw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-wordpro",
+			"IsText": false
+		},
+		{
+			"Ext": "sam",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 7,
+					"RangeEnd": -1,
+					"Value": "5B50686F6E655D",
+					"ValueEnd": "",
+					"Bytes": "W1Bob25lXQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.lotus-wordpro",
+			"IsText": false
+		},
+		{
+			"Ext": "mif",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 11,
+					"RangeEnd": -1,
+					"Value": "3C4D616B657246696C6520",
+					"ValueEnd": "",
+					"Bytes": "PE1ha2VyRmlsZSA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "56657273696F6E20",
+					"ValueEnd": "",
+					"Bytes": "VmVyc2lvbiA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.mif",
+			"IsText": false
+		},
+		{
+			"Ext": "xul",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 21,
+					"RangeEnd": -1,
+					"Value": "3C3F786D6C2076657273696F6E3D22312E30223F3E",
+					"ValueEnd": "",
+					"Bytes": "PD94bWwgdmVyc2lvbj0iMS4wIj8+",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.mozilla.xul+xml",
+			"IsText": false
+		},
+		{
+			"Ext": "asf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "3026B2758E66CF11A6D900AA0062CE6C",
+					"ValueEnd": "",
+					"Bytes": "MCaydY5mzxGm2QCqAGLObA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-asf",
+			"IsText": false
+		},
+		{
+			"Ext": "cab",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "49536328",
+					"ValueEnd": "",
+					"Bytes": "SVNjKA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "4D534346",
+					"ValueEnd": "",
+					"Bytes": "TVNDRg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-cab-compressed",
+			"IsText": false
+		},
+		{
+			"Ext": "xls",
+			"Signs": [
+				{
+					"Offset": 512,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "0908100000060500",
+					"ValueEnd": "",
+					"Bytes": "CQgQAAAGBQA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "D0CF11E0A1B11AE1",
+					"ValueEnd": "",
+					"Bytes": "0M8R4KGxGuE=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 512,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "FDFFFFFF04",
+					"ValueEnd": "",
+					"Bytes": "/f///wQ=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 512,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "FDFFFFFF20000000",
+					"ValueEnd": "",
+					"Bytes": "/f///yAAAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-excel",
+			"IsText": false
+		},
+		{
+			"Ext": "xla",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "D0CF11E0A1B11AE1",
+					"ValueEnd": "",
+					"Bytes": "0M8R4KGxGuE=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-excel",
+			"IsText": false
+		},
+		{
+			"Ext": "chm",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "49545346",
+					"ValueEnd": "",
+					"Bytes": "SVRTRg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-htmlhelp",
+			"IsText": false
+		},
+		{
+			"Ext": "ppt",
+			"Signs": [
+				{
+					"Offset": 512,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "006E1EF0",
+					"ValueEnd": "",
+					"Bytes": "AG4e8A==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 512,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "0F00E803",
+					"ValueEnd": "",
+					"Bytes": "DwDoAw==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 512,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "A0461DF0",
+					"ValueEnd": "",
+					"Bytes": "oEYd8A==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "D0CF11E0A1B11AE1",
+					"ValueEnd": "",
+					"Bytes": "0M8R4KGxGuE=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 512,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "FDFFFFFF04",
+					"ValueEnd": "",
+					"Bytes": "/f///wQ=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-powerpoint",
+			"IsText": false
+		},
+		{
+			"Ext": "pps",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "D0CF11E0A1B11AE1",
+					"ValueEnd": "",
+					"Bytes": "0M8R4KGxGuE=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-powerpoint",
+			"IsText": false
+		},
+		{
+			"Ext": "wks",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "0E574B53",
+					"ValueEnd": "",
+					"Bytes": "DldLUw==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 10,
+					"RangeEnd": -1,
+					"Value": "FF000200040405540200",
+					"ValueEnd": "",
+					"Bytes": "/wACAAQEBVQCAA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-works",
+			"IsText": false
+		},
+		{
+			"Ext": "wpl",
+			"Signs": [
+				{
+					"Offset": 84,
+					"Range": 34,
+					"RangeEnd": -1,
+					"Value": "4D6963726F736F66742057696E646F7773204D6564696120506C61796572202D2D20",
+					"ValueEnd": "",
+					"Bytes": "TWljcm9zb2Z0IFdpbmRvd3MgTWVkaWEgUGxheWVyIC0tIA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-wpl",
+			"IsText": false
+		},
+		{
+			"Ext": "xps",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.ms-xpsdocument",
+			"IsText": false
+		},
+		{
+			"Ext": "cif",
+			"Signs": [
+				{
+					"Offset": 2,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "5B56657273696F6E",
+					"ValueEnd": "",
+					"Bytes": "W1ZlcnNpb24=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.multiad.creator.cif",
+			"IsText": false
+		},
+		{
+			"Ext": "odp",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.oasis.opendocument.presentation",
+			"IsText": false
+		},
+		{
+			"Ext": "odt",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.oasis.opendocument.text",
+			"IsText": false
+		},
+		{
+			"Ext": "ott",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.oasis.opendocument.text-template",
+			"IsText": false
+		},
+		{
+			"Ext": "pptx",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "504B030414000600",
+					"ValueEnd": "",
+					"Bytes": "UEsDBBQABgA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+			"IsText": false
+		},
+		{
+			"Ext": "xlsx",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "504B030414000600",
+					"ValueEnd": "",
+					"Bytes": "UEsDBBQABgA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+			"IsText": false
+		},
+		{
+			"Ext": "docx",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "504B030414000600",
+					"ValueEnd": "",
+					"Bytes": "UEsDBBQABgA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+			"IsText": false
+		},
+		{
+			"Ext": "prc",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "424F4F4B4D4F4249",
+					"ValueEnd": "",
+					"Bytes": "Qk9PS01PQkk=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 60,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "74424D504B6E5772",
+					"ValueEnd": "",
+					"Bytes": "dEJNUEtuV3I=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.palm",
+			"IsText": false
+		},
+		{
+			"Ext": "pdb",
+			"Signs": [
+				{
+					"Offset": 11,
+					"Range": 24,
+					"RangeEnd": -1,
+					"Value": "000000000000000000000000000000000000000000000000",
+					"ValueEnd": "",
+					"Bytes": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "4D2D5720506F636B6574204469637469",
+					"ValueEnd": "",
+					"Bytes": "TS1XIFBvY2tldCBEaWN0aQ==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "4D6963726F736F667420432F432B2B20",
+					"ValueEnd": "",
+					"Bytes": "TWljcm9zb2Z0IEMvQysrIA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "736D5F",
+					"ValueEnd": "",
+					"Bytes": "c21f",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "737A657A",
+					"ValueEnd": "",
+					"Bytes": "c3pleg==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "ACED0005737200126267626C69747A2E",
+					"ValueEnd": "",
+					"Bytes": "rO0ABXNyABJiZ2JsaXR6Lg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.palm",
+			"IsText": false
+		},
+		{
+			"Ext": "qxd",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 7,
+					"RangeEnd": -1,
+					"Value": "00004D4D585052",
+					"ValueEnd": "",
+					"Bytes": "AABNTVhQUg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.Quark.QuarkXPress",
+			"IsText": false
+		},
+		{
+			"Ext": "rar",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 7,
+					"RangeEnd": -1,
+					"Value": "526172211A0700",
+					"ValueEnd": "",
+					"Bytes": "UmFyIRoHAA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "526172211A070100",
+					"ValueEnd": "",
+					"Bytes": "UmFyIRoHAQA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.rar",
+			"IsText": false
+		},
+		{
+			"Ext": "mmf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "4D4D4D440000",
+					"ValueEnd": "",
+					"Bytes": "TU1NRAAA",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.smaf",
+			"IsText": false
+		},
+		{
+			"Ext": "cap",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "52545353",
+					"ValueEnd": "",
+					"Bytes": "UlRTUw==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "58435000",
+					"ValueEnd": "",
+					"Bytes": "WENQAA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.tcpdump.pcap",
+			"IsText": false
+		},
+		{
+			"Ext": "dmp",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "4D444D5093A7",
+					"ValueEnd": "",
+					"Bytes": "TURNUJOn",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "5041474544553634",
+					"ValueEnd": "",
+					"Bytes": "UEFHRURVNjQ=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "5041474544554D50",
+					"ValueEnd": "",
+					"Bytes": "UEFHRURVTVA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.tcpdump.pcap",
+			"IsText": false
+		},
+		{
+			"Ext": "wpd",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "FF575043",
+					"ValueEnd": "",
+					"Bytes": "/1dQQw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.wordperfect",
+			"IsText": false
+		},
+		{
+			"Ext": "xar",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "78617221",
+					"ValueEnd": "",
+					"Bytes": "eGFyIQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.xara",
+			"IsText": false
+		},
+		{
+			"Ext": "spf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "5350464900",
+					"ValueEnd": "",
+					"Bytes": "U1BGSQA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.yamaha.smaf-phrase",
+			"IsText": false
+		},
+		{
+			"Ext": "dtd",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "0764743264647464",
+					"ValueEnd": "",
+					"Bytes": "B2R0MmRkdGQ=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/xml-dtd",
+			"IsText": false
+		},
+		{
+			"Ext": "zip",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 14,
+					"RangeEnd": -1,
+					"Value": "504B030414000100630000000000",
+					"ValueEnd": "",
+					"Bytes": "UEsDBBQAAQBjAAAAAAA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0708",
+					"ValueEnd": "",
+					"Bytes": "UEsHCA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 30,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "504B4C495445",
+					"ValueEnd": "",
+					"Bytes": "UEtMSVRF",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 526,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "504B537058",
+					"ValueEnd": "",
+					"Bytes": "UEtTcFg=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/zip",
+			"IsText": false
+		},
+		{
+			"Ext": "amr",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "2321414D52",
+					"ValueEnd": "",
+					"Bytes": "IyFBTVI=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/AMR",
+			"IsText": false
+		},
+		{
+			"Ext": "au",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "2E736E64",
+					"ValueEnd": "",
+					"Bytes": "LnNuZA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "646E732E",
+					"ValueEnd": "",
+					"Bytes": "ZG5zLg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/basic",
+			"IsText": false
+		},
+		{
+			"Ext": "m4a",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "00000020667479704D344120",
+					"ValueEnd": "",
+					"Bytes": "AAAAIGZ0eXBNNEEg",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 4,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "667479704D344120",
+					"ValueEnd": "",
+					"Bytes": "ZnR5cE00QSA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/mp4",
+			"IsText": false
+		},
+		{
+			"Ext": "mp3",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "494433",
+					"ValueEnd": "",
+					"Bytes": "SUQz",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFFB",
+					"ValueEnd": "",
+					"Bytes": "//s=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/mpeg",
+			"IsText": false
+		},
+		{
+			"Ext": "oga",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 14,
+					"RangeEnd": -1,
+					"Value": "4F67675300020000000000000000",
+					"ValueEnd": "",
+					"Bytes": "T2dnUwACAAAAAAAAAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/ogg",
+			"IsText": false
+		},
+		{
+			"Ext": "ogg",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 14,
+					"RangeEnd": -1,
+					"Value": "4F67675300020000000000000000",
+					"ValueEnd": "",
+					"Bytes": "T2dnUwACAAAAAAAAAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/ogg",
+			"IsText": false
+		},
+		{
+			"Ext": "qcp",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "52494646",
+					"ValueEnd": "",
+					"Bytes": "UklGRg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/qcelp",
+			"IsText": false
+		},
+		{
+			"Ext": "koz",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 7,
+					"RangeEnd": -1,
+					"Value": "49443303000000",
+					"ValueEnd": "",
+					"Bytes": "SUQzAwAAAA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/vnd.audikoz",
+			"IsText": false
+		},
+		{
+			"Ext": "bmp",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "424D",
+					"ValueEnd": "",
+					"Bytes": "Qk0=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/bmp",
+			"IsText": false
+		},
+		{
+			"Ext": "dib",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "424D",
+					"ValueEnd": "",
+					"Bytes": "Qk0=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/bmp",
+			"IsText": false
+		},
+		{
+			"Ext": "emf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "01000000",
+					"ValueEnd": "",
+					"Bytes": "AQAAAA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/emf",
+			"IsText": false
+		},
+		{
+			"Ext": "fits",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 30,
+					"RangeEnd": -1,
+					"Value": "53494D504C4520203D202020202020202020202020202020202020202054",
+					"ValueEnd": "",
+					"Bytes": "U0lNUExFICA9ICAgICAgICAgICAgICAgICAgICBU",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/fits",
+			"IsText": false
+		},
+		{
+			"Ext": "gif",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "474946383961",
+					"ValueEnd": "",
+					"Bytes": "R0lGODlh",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/gif",
+			"IsText": false
+		},
+		{
+			"Ext": "jp2",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 10,
+					"RangeEnd": -1,
+					"Value": "0000000C6A5020200D0A",
+					"ValueEnd": "",
+					"Bytes": "AAAADGpQICANCg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/jp2",
+			"IsText": false
+		},
+		{
+			"Ext": "jpg",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/jpeg",
+			"IsText": false
+		},
+		{
+			"Ext": "jpeg",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/jpeg",
+			"IsText": false
+		},
+		{
+			"Ext": "jpe",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/jpeg",
+			"IsText": false
+		},
+		{
+			"Ext": "jfif",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/jpeg",
+			"IsText": false
+		},
+		{
+			"Ext": "png",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "89504E470D0A1A0A",
+					"ValueEnd": "",
+					"Bytes": "iVBORw0KGgo=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/png",
+			"IsText": false
+		},
+		{
+			"Ext": "tiff",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "492049",
+					"ValueEnd": "",
+					"Bytes": "SSBJ",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "49492A00",
+					"ValueEnd": "",
+					"Bytes": "SUkqAA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "4D4D002A",
+					"ValueEnd": "",
+					"Bytes": "TU0AKg==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "4D4D002B",
+					"ValueEnd": "",
+					"Bytes": "TU0AKw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/tiff",
+			"IsText": false
+		},
+		{
+			"Ext": "tif",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "492049",
+					"ValueEnd": "",
+					"Bytes": "SSBJ",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "49492A00",
+					"ValueEnd": "",
+					"Bytes": "SUkqAA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "4D4D002A",
+					"ValueEnd": "",
+					"Bytes": "TU0AKg==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "4D4D002B",
+					"ValueEnd": "",
+					"Bytes": "TU0AKw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/tiff",
+			"IsText": false
+		},
+		{
+			"Ext": "psd",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "38425053",
+					"ValueEnd": "",
+					"Bytes": "OEJQUw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/vnd.adobe.photoshop",
+			"IsText": false
+		},
+		{
+			"Ext": "dwg",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "41433130",
+					"ValueEnd": "",
+					"Bytes": "QUMxMA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/vnd.dwg",
+			"IsText": false
+		},
+		{
+			"Ext": "ico",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "00000100",
+					"ValueEnd": "",
+					"Bytes": "AAABAA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/vnd.microsoft.icon",
+			"IsText": false
+		},
+		{
+			"Ext": "mdi",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "4550",
+					"ValueEnd": "",
+					"Bytes": "RVA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/vnd.ms-modi",
+			"IsText": false
+		},
+		{
+			"Ext": "hdr",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 11,
+					"RangeEnd": -1,
+					"Value": "233F52414449414E43450A",
+					"ValueEnd": "",
+					"Bytes": "Iz9SQURJQU5DRQo=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "49536328",
+					"ValueEnd": "",
+					"Bytes": "SVNjKA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/vnd.radiance",
+			"IsText": false
+		},
+		{
+			"Ext": "pcx",
+			"Signs": [
+				{
+					"Offset": 512,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "0908100000060500",
+					"ValueEnd": "",
+					"Bytes": "CQgQAAAGBQA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/vnd.zbrush.pcx",
+			"IsText": false
+		},
+		{
+			"Ext": "wmf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "010009000003",
+					"ValueEnd": "",
+					"Bytes": "AQAJAAAD",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "D7CDC69A",
+					"ValueEnd": "",
+					"Bytes": "183Gmg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/wmf",
+			"IsText": false
+		},
+		{
+			"Ext": "eml",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "46726F6D3A20",
+					"ValueEnd": "",
+					"Bytes": "RnJvbTog",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 13,
+					"RangeEnd": -1,
+					"Value": "52657475726E2D506174683A20",
+					"ValueEnd": "",
+					"Bytes": "UmV0dXJuLVBhdGg6IA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "582D",
+					"ValueEnd": "",
+					"Bytes": "WC0=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "message/rfc822",
+			"IsText": false
+		},
+		{
+			"Ext": "art",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "4A47040E",
+					"ValueEnd": "",
+					"Bytes": "SkcEDg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "message/rfc822",
+			"IsText": false
+		},
+		{
+			"Ext": "manifest",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 14,
+					"RangeEnd": -1,
+					"Value": "3C3F786D6C2076657273696F6E3D",
+					"ValueEnd": "",
+					"Bytes": "PD94bWwgdmVyc2lvbj0=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "text/cache-manifest",
+			"IsText": false
+		},
+		{
+			"Ext": "log",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 26,
+					"RangeEnd": -1,
+					"Value": "2A2A2A2020496E7374616C6C6174696F6E205374617274656420",
+					"ValueEnd": "",
+					"Bytes": "KioqICBJbnN0YWxsYXRpb24gU3RhcnRlZCA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "text/plain",
+			"IsText": false
+		},
+		{
+			"Ext": "tsv",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 1,
+					"RangeEnd": -1,
+					"Value": "47",
+					"ValueEnd": "",
+					"Bytes": "Rw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "text/tab-separated-values",
+			"IsText": false
+		},
+		{
+			"Ext": "vcf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 13,
+					"RangeEnd": -1,
+					"Value": "424547494E3A56434152440D0A",
+					"ValueEnd": "",
+					"Bytes": "QkVHSU46VkNBUkQNCg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "text/vcard",
+			"IsText": false
+		},
+		{
+			"Ext": "dms",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "444D5321",
+					"ValueEnd": "",
+					"Bytes": "RE1TIQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "text/vnd.DMClientScript",
+			"IsText": false
+		},
+		{
+			"Ext": "dot",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "D0CF11E0A1B11AE1",
+					"ValueEnd": "",
+					"Bytes": "0M8R4KGxGuE=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "text/vnd.graphviz",
+			"IsText": false
+		},
+		{
+			"Ext": "ts",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 1,
+					"RangeEnd": -1,
+					"Value": "47",
+					"ValueEnd": "",
+					"Bytes": "Rw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "text/vnd.trolltech.linguist",
+			"IsText": false
+		},
+		{
+			"Ext": "3gp",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 11,
+					"RangeEnd": -1,
+					"Value": "0000001466747970336770",
+					"ValueEnd": "",
+					"Bytes": "AAAAFGZ0eXAzZ3A=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 11,
+					"RangeEnd": -1,
+					"Value": "0000002066747970336770",
+					"ValueEnd": "",
+					"Bytes": "AAAAIGZ0eXAzZ3A=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/3gpp",
+			"IsText": false
+		},
+		{
+			"Ext": "3g2",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 11,
+					"RangeEnd": -1,
+					"Value": "0000001466747970336770",
+					"ValueEnd": "",
+					"Bytes": "AAAAFGZ0eXAzZ3A=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 11,
+					"RangeEnd": -1,
+					"Value": "0000002066747970336770",
+					"ValueEnd": "",
+					"Bytes": "AAAAIGZ0eXAzZ3A=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/3gpp2",
+			"IsText": false
+		},
+		{
+			"Ext": "mp4",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "000000146674797069736F6D",
+					"ValueEnd": "",
+					"Bytes": "AAAAFGZ0eXBpc29t",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "000000186674797033677035",
+					"ValueEnd": "",
+					"Bytes": "AAAAGGZ0eXAzZ3A1",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 24,
+					"RangeEnd": -1,
+					"Value": "0000001C667479704D534E56012900464D534E566D703432",
+					"ValueEnd": "",
+					"Bytes": "AAAAHGZ0eXBNU05WASkARk1TTlZtcDQy",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 4,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "6674797033677035",
+					"ValueEnd": "",
+					"Bytes": "ZnR5cDNncDU=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 4,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "667479704D534E56",
+					"ValueEnd": "",
+					"Bytes": "ZnR5cE1TTlY=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 4,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "6674797069736F6D",
+					"ValueEnd": "",
+					"Bytes": "ZnR5cGlzb20=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/mp4",
+			"IsText": false
+		},
+		{
+			"Ext": "m4v",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "00000018667479706D703432",
+					"ValueEnd": "",
+					"Bytes": "AAAAGGZ0eXBtcDQy",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "00000020667479704D345620",
+					"ValueEnd": "",
+					"Bytes": "AAAAIGZ0eXBNNFYg",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 4,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "667479706D703432",
+					"ValueEnd": "",
+					"Bytes": "ZnR5cG1wNDI=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/mp4",
+			"IsText": false
+		},
+		{
+			"Ext": "mpeg",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "00000100",
+					"ValueEnd": "",
+					"Bytes": "AAABAA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/mpeg",
+			"IsText": false
+		},
+		{
+			"Ext": "mpg",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "00000100",
+					"ValueEnd": "",
+					"Bytes": "AAABAA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "000001BA",
+					"ValueEnd": "",
+					"Bytes": "AAABug==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 2,
+					"RangeEnd": -1,
+					"Value": "FFD8",
+					"ValueEnd": "",
+					"Bytes": "/9g=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/mpeg",
+			"IsText": false
+		},
+		{
+			"Ext": "ogv",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 14,
+					"RangeEnd": -1,
+					"Value": "4F67675300020000000000000000",
+					"ValueEnd": "",
+					"Bytes": "T2dnUwACAAAAAAAAAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/ogg",
+			"IsText": false
+		},
+		{
+			"Ext": "mov",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 1,
+					"RangeEnd": -1,
+					"Value": "00",
+					"ValueEnd": "",
+					"Bytes": "AA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "000000146674797071742020",
+					"ValueEnd": "",
+					"Bytes": "AAAAFGZ0eXBxdCAg",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 4,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "6674797071742020",
+					"ValueEnd": "",
+					"Bytes": "ZnR5cHF0ICA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 4,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "6D6F6F76",
+					"ValueEnd": "",
+					"Bytes": "bW9vdg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/quicktime",
+			"IsText": false
+		},
+		{
+			"Ext": "cpt",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "4350543746494C45",
+					"ValueEnd": "",
+					"Bytes": "Q1BUN0ZJTEU=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 7,
+					"RangeEnd": -1,
+					"Value": "43505446494C45",
+					"ValueEnd": "",
+					"Bytes": "Q1BURklMRQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/mac-compactpro",
+			"IsText": false
+		},
+		{
+			"Ext": "sxc",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.sun.xml.calc",
+			"IsText": false
+		},
+		{
+			"Ext": "sxd",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.sun.xml.draw",
+			"IsText": false
+		},
+		{
+			"Ext": "sxi",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.sun.xml.impress",
+			"IsText": false
+		},
+		{
+			"Ext": "sxw",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/vnd.sun.xml.writer",
+			"IsText": false
+		},
+		{
+			"Ext": "bz2",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "425A68",
+					"ValueEnd": "",
+					"Bytes": "Qlpo",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-bzip2",
+			"IsText": false
+		},
+		{
+			"Ext": "vcd",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "454E5452595643440200000102001858",
+					"ValueEnd": "",
+					"Bytes": "RU5UUllWQ0QCAAABAgAYWA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-cdlink",
+			"IsText": false
+		},
+		{
+			"Ext": "csh",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 11,
+					"RangeEnd": -1,
+					"Value": "6375736800000002000000",
+					"ValueEnd": "",
+					"Bytes": "Y3VzaAAAAAIAAAA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-csh",
+			"IsText": false
+		},
+		{
+			"Ext": "spl",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "00000100",
+					"ValueEnd": "",
+					"Bytes": "AAABAA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-futuresplash",
+			"IsText": false
+		},
+		{
+			"Ext": "jar",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "4A4152435300",
+					"ValueEnd": "",
+					"Bytes": "SkFSQ1MA",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 10,
+					"RangeEnd": -1,
+					"Value": "504B0304140008000800",
+					"ValueEnd": "",
+					"Bytes": "UEsDBBQACAAIAA==",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "5F27A889",
+					"ValueEnd": "",
+					"Bytes": "XyeoiQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-java-archive",
+			"IsText": false
+		},
+		{
+			"Ext": "rpm",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "EDABEEDB",
+					"ValueEnd": "",
+					"Bytes": "7avu2w==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-rpm",
+			"IsText": false
+		},
+		{
+			"Ext": "swf",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "435753",
+					"ValueEnd": "",
+					"Bytes": "Q1dT",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "465753",
+					"ValueEnd": "",
+					"Bytes": "RldT",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "5A5753",
+					"ValueEnd": "",
+					"Bytes": "WldT",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-shockwave-flash",
+			"IsText": false
+		},
+		{
+			"Ext": "sit",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "5349542100",
+					"ValueEnd": "",
+					"Bytes": "U0lUIQA=",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "5374756666497420286329313939372D",
+					"ValueEnd": "",
+					"Bytes": "U3R1ZmZJdCAoYykxOTk3LQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-stuffit",
+			"IsText": false
+		},
+		{
+			"Ext": "tar",
+			"Signs": [
+				{
+					"Offset": 257,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "7573746172",
+					"ValueEnd": "",
+					"Bytes": "dXN0YXI=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-tar",
+			"IsText": false
+		},
+		{
+			"Ext": "xpi",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "504B0304",
+					"ValueEnd": "",
+					"Bytes": "UEsDBA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-xpinstall",
+			"IsText": false
+		},
+		{
+			"Ext": "xz",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "FD377A585A00",
+					"ValueEnd": "",
+					"Bytes": "/Td6WFoA",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "application/x-xz",
+			"IsText": false
+		},
+		{
+			"Ext": "mid",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "4D546864",
+					"ValueEnd": "",
+					"Bytes": "TVRoZA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/midi",
+			"IsText": false
+		},
+		{
+			"Ext": "midi",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "4D546864",
+					"ValueEnd": "",
+					"Bytes": "TVRoZA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/midi",
+			"IsText": false
+		},
+		{
+			"Ext": "aiff",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "464F524D00",
+					"ValueEnd": "",
+					"Bytes": "Rk9STQA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/x-aiff",
+			"IsText": false
+		},
+		{
+			"Ext": "flac",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 8,
+					"RangeEnd": -1,
+					"Value": "664C614300000022",
+					"ValueEnd": "",
+					"Bytes": "ZkxhQwAAACI=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/x-flac",
+			"IsText": false
+		},
+		{
+			"Ext": "wma",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "3026B2758E66CF11A6D900AA0062CE6C",
+					"ValueEnd": "",
+					"Bytes": "MCaydY5mzxGm2QCqAGLObA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/x-ms-wma",
+			"IsText": false
+		},
+		{
+			"Ext": "ram",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 7,
+					"RangeEnd": -1,
+					"Value": "727473703A2F2F",
+					"ValueEnd": "",
+					"Bytes": "cnRzcDovLw==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/x-pn-realaudio",
+			"IsText": false
+		},
+		{
+			"Ext": "rm",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "2E524D46",
+					"ValueEnd": "",
+					"Bytes": "LlJNRg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/x-pn-realaudio",
+			"IsText": false
+		},
+		{
+			"Ext": "ra",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 9,
+					"RangeEnd": -1,
+					"Value": "2E524D460000001200",
+					"ValueEnd": "",
+					"Bytes": "LlJNRgAAABIA",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 5,
+					"RangeEnd": -1,
+					"Value": "2E7261FD00",
+					"ValueEnd": "",
+					"Bytes": "LnJh/QA=",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/x-realaudio",
+			"IsText": false
+		},
+		{
+			"Ext": "wav",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "52494646",
+					"ValueEnd": "",
+					"Bytes": "UklGRg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "audio/x-wav",
+			"IsText": false
+		},
+		{
+			"Ext": "webp",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "52494646",
+					"ValueEnd": "",
+					"Bytes": "UklGRg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/webp",
+			"IsText": false
+		},
+		{
+			"Ext": "pgm",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 3,
+					"RangeEnd": -1,
+					"Value": "50350A",
+					"ValueEnd": "",
+					"Bytes": "UDUK",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/x-portable-graymap",
+			"IsText": false
+		},
+		{
+			"Ext": "rgb",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 6,
+					"RangeEnd": -1,
+					"Value": "01DA01010003",
+					"ValueEnd": "",
+					"Bytes": "AdoBAQAD",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "image/x-rgb",
+			"IsText": false
+		},
+		{
+			"Ext": "webm",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "1A45DFA3",
+					"ValueEnd": "",
+					"Bytes": "GkXfow==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/webm",
+			"IsText": false
+		},
+		{
+			"Ext": "flv",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 12,
+					"RangeEnd": -1,
+					"Value": "00000020667479704D345620",
+					"ValueEnd": "",
+					"Bytes": "AAAAIGZ0eXBNNFYg",
+					"BytesEnd": null
+				},
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "464C5601",
+					"ValueEnd": "",
+					"Bytes": "RkxWAQ==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/x-flv",
+			"IsText": false
+		},
+		{
+			"Ext": "mkv",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "1A45DFA3",
+					"ValueEnd": "",
+					"Bytes": "GkXfow==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/x-matroska",
+			"IsText": false
+		},
+		{
+			"Ext": "asx",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 1,
+					"RangeEnd": -1,
+					"Value": "3C",
+					"ValueEnd": "",
+					"Bytes": "PA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/x-ms-asf",
+			"IsText": false
+		},
+		{
+			"Ext": "wmv",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 16,
+					"RangeEnd": -1,
+					"Value": "3026B2758E66CF11A6D900AA0062CE6C",
+					"ValueEnd": "",
+					"Bytes": "MCaydY5mzxGm2QCqAGLObA==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/x-ms-wmv",
+			"IsText": false
+		},
+		{
+			"Ext": "avi",
+			"Signs": [
+				{
+					"Offset": 0,
+					"Range": 4,
+					"RangeEnd": -1,
+					"Value": "52494646",
+					"ValueEnd": "",
+					"Bytes": "UklGRg==",
+					"BytesEnd": null
+				}
+			],
+			"Mime": "video/x-msvideo",
+			"IsText": false
+		}
+	],
+	"DispLen": 32
+}

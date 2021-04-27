@@ -1,0 +1,3 @@
+To use Yamlv2, uncomment function in json-to-struct.go
+and unpack vendor.7z
+
