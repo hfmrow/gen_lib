@@ -33,3 +33,17 @@ $ go install github.com/hfmrow/gen_lib/...
 ##### [Go Maps Cheat Sheet](https://flaviocopes.com/golang-cheat-sheet-maps/)
 
 ##### [Regular expression](https://regex101.com/)
+
+---
+
+# Important Notice:
+
+ This library is constantly updated, it is not necessary to include it manually, it will eventually be downloaded automatically if the software requires it.
+
+It's just there for my own convenience. All my projects that use it are distributed with a **vendor** directory which includes a specific version and which will allow the program to be built without worrying about anything.
+
+If you want to play around with the source code of my software, I recommend that you only use the **vendor** version and not try to update to a newer version (only these), as the current version may no longer be compatible with the software version available in the repository. Since Go modules exist, normally only the compatible version will be used (unless you modify the 'go.mod' file).
+
+*The previous explanations do not include (of course), the use for your personal use (in your own programs), as stated before, you can use any part of it as long as the definition of the MIT license is met as all other types of licenses used by third-party libraries used.*
+
+---
